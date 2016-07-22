@@ -1,0 +1,39 @@
+*{margin: 0;padding: 0}
+body{
+    font-family: arial;
+    font-size: 14px;
+    line-height: 22px;
+    background: #377F00;
+
+
+}
+.stracture{
+    width: 760px;
+    overflow: hidden;
+    margin: 65px auto;
+    background: #346603;
+    height: 460px;
+}
+.contact h2{
+    text-align: center;
+    margin-top: 40px;
+    color: #00AFF0;
+    font-size: 41px;
+}
+
+.form{
+    width: 550px;
+    margin-left: 108px;
+    margin-top: 45px;
+}
+input{
+    text-align: center;
+    color: #DD4C3F;
+    height: 26px;
+    width: 198px;
+    font-size: 20px;
+}
+button{
+    font-size: 20px
+}
+
